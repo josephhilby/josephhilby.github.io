@@ -4,15 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi,
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I'm Joe. I spent ten years as a Navy Pilot, then transitioned out of the military and had to decide what I wanted to do with the rest of my life.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I had grown up as a 'digital native' but realized I knew painfully little about the machines that ran an unbelievable amount of my life. So I decided to change that. I am hoping to document that change. While I cannot make any claims to a deep knowledge of the topics I will talk about, I do hope others get some amount of value on the perspective I bring. That being someone who is technologically literate, critically minded, inquisitive, and actively trying to become technologically capable.
 
-
-[jekyll-organization]: https://github.com/jekyll
+If you are still here. Thank you for reading. Please feel free to reach out to me via LinkedIn!
