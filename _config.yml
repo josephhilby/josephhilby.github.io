@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Hotwash
+title: </HOTWASH>
 email: Joseph.Hilby@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This blog is meant to be a documentation of sorts for my career change from a Navy Pilot to Software Engineer. I am hoping to preserve, in some sense, my outlook and thoughts on this transition. To have a record of them to revisit once I am no longer on the outside looking in.
